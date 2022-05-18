@@ -16,9 +16,9 @@ namespace Delegates
         public void Sale(Product product, int count)
         {
 
-            double a = product.Price * count;
-            Totalprice += a;
-            Console.WriteLine($" The Cart price is { Math.Round(Totalprice, 2)} AZN");
+            double price = product.Price * count;
+            Totalprice += price;
+            Console.WriteLine($" The Cart price is { Math.Round(Totalprice)} AZN");
         }
 
         public void Discount()
@@ -28,17 +28,17 @@ namespace Delegates
             Predicate<double> discount20 = Totalprice => Totalprice >= 200;
             if (nodiscount(Totalprice))
             {
-                Console.WriteLine($" There is no discount -  {Math.Round(Totalprice, 2)} \n Thanks for shopping");
+                Console.WriteLine($" There is no discount -  {Math.Round(Totalprice)} \n Thanks for shopping");
             }
             if (discount10(Totalprice))
             {
                 Totalprice = Totalprice - Totalprice * 10/100;
-                Console.WriteLine($" 10 % discount -  {Math.Round(Totalprice, 2)} \n Thanks for shopping");
+                Console.WriteLine($" 10 % discount -  {Math.Round(Totalprice)} \n Thanks for shopping");
             }
             if (discount20(Totalprice))
             {
                 Totalprice = Totalprice - Totalprice * 10/100;
-                Console.WriteLine($" 20 % discount -  {Math.Round(Totalprice, 2)} \n Thanks for shopping");
+                Console.WriteLine($" 20 % discount -  {Math.Round(Totalprice)} \n Thanks for shopping");
             }
             Console.WriteLine( Date);
 

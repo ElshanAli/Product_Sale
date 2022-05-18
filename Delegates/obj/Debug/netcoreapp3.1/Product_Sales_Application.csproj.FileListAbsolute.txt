@@ -12,3 +12,17 @@ D:\This PC\Delegates\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application
 D:\This PC\Delegates\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.dll
 D:\This PC\Delegates\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.pdb
 D:\This PC\Delegates\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.genruntimeconfig.cache
+D:\This PC\Product_Sales_Aplication\Delegates\bin\Debug\netcoreapp3.1\Product_Sales_Application.exe
+D:\This PC\Product_Sales_Aplication\Delegates\bin\Debug\netcoreapp3.1\Product_Sales_Application.deps.json
+D:\This PC\Product_Sales_Aplication\Delegates\bin\Debug\netcoreapp3.1\Product_Sales_Application.runtimeconfig.json
+D:\This PC\Product_Sales_Aplication\Delegates\bin\Debug\netcoreapp3.1\Product_Sales_Application.runtimeconfig.dev.json
+D:\This PC\Product_Sales_Aplication\Delegates\bin\Debug\netcoreapp3.1\Product_Sales_Application.dll
+D:\This PC\Product_Sales_Aplication\Delegates\bin\Debug\netcoreapp3.1\Product_Sales_Application.pdb
+D:\This PC\Product_Sales_Aplication\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.csproj.AssemblyReference.cache
+D:\This PC\Product_Sales_Aplication\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\This PC\Product_Sales_Aplication\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.AssemblyInfoInputs.cache
+D:\This PC\Product_Sales_Aplication\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.AssemblyInfo.cs
+D:\This PC\Product_Sales_Aplication\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.csproj.CoreCompileInputs.cache
+D:\This PC\Product_Sales_Aplication\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.dll
+D:\This PC\Product_Sales_Aplication\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.pdb
+D:\This PC\Product_Sales_Aplication\Delegates\obj\Debug\netcoreapp3.1\Product_Sales_Application.genruntimeconfig.cache

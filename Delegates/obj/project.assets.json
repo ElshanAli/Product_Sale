@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\This PC\\Delegates\\Delegates\\Product_Sales_Application.csproj",
+      "projectUniqueName": "D:\\This PC\\Product_Sales_Aplication\\Delegates\\Product_Sales_Application.csproj",
       "projectName": "Product_Sales_Application",
-      "projectPath": "D:\\This PC\\Delegates\\Delegates\\Product_Sales_Application.csproj",
+      "projectPath": "D:\\This PC\\Product_Sales_Aplication\\Delegates\\Product_Sales_Application.csproj",
       "packagesPath": "C:\\Users\\RZS\\.nuget\\packages\\",
-      "outputPath": "D:\\This PC\\Delegates\\Delegates\\obj\\",
+      "outputPath": "D:\\This PC\\Product_Sales_Aplication\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RZS\\AppData\\Roaming\\NuGet\\NuGet.Config",
